@@ -1,2 +1,1 @@
-# SMS-Spam-Classifie![image](https://github.com/humaira-shaikh/SMS-spam-classifier/assets/111051254/8158c524-1de6-402c-8455-88494eb33b01)
-`
+# SMS-Spam-Classifier![image](https://github.com/humaira-shaikh/SMS-spam-classifier/assets/111051254/b255f34f-4da4-44f4-acef-9a8803174a6e)
